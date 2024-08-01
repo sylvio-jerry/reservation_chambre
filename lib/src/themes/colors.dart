@@ -1,0 +1,53 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color bgColor1 = Color(0x1A27AE60);
+  static const Color green = Color(0xff27AE60);
+  static const Color bgGreen = Color(0x1A27AE60);
+  static const Color black = Color(0xff000000);
+  static const Color grey = Colors.grey;
+  static const Color grey_1 = Color(0xffF5F5F5);
+  static const Color grey_2 = Color(0xffBDBDBD);
+  static const Color grey_3 = Color(0xff333333);
+  static const Color grey_4 = Color(0xff4f4f4f);
+  static const Color grey_5 = Color(0xfff9f9f9);
+  static const Color grey_6 = Color(0xff828282);
+  static const Color grey_7 = Color(0xff545F71);
+  static const Color grey_8 = Color(0xff5c5c5c);
+  static const Color grey_9 = Color(0xff828282);
+  static const Color grey_10 = Color(0xffD9D9D9);
+  static const Color grey_11 = Color(0xff53535F);
+  static const Color white = Color(0xffffffff);
+  static const Color red = Color(0xfff30e0a);
+  static const Color textColorColor1 = Color(0xff333333);
+  static const Color textColorColor2 = Color(0xff092c4c);
+  static const Color yellow = Color(0xffFFDE59);
+  static const Color bgYellow = Color(0x1AFFDE59);
+  static const Color darkBlue = Color(0xff273DAE);
+  static const Color bgDarkBlue = Color(0x1A273DAE);
+  static const Color orange = Color(0xffFD9A0F);
+  static const Color bgOrange = Color(0x1AFD9A0F);
+  static const Color blue = Color(0xff3B7BFF);
+  static const Color bgBlue = Color(0x1A3B7BFF);
+  static const Color purple = Color(0xff7D61FF);
+  static const Color bgPurple = Color(0x1A7D61FF);
+  static const Color darkPurple = Color(0xff7354FF);
+  static const Color bgDarkPurple = Color(0x1A7354FF);
+  static const Color pink = Color(0xffFF7C89);
+  static const Color bgPink = Color(0x1AFF7C89);
+  static const Color darkPink = Color(0xffFF446B);
+  static const Color bgDarkPink = Color(0x1AFF446B);
+  static const Color transparent = Colors.transparent;
+  static const Color bgDark = Color(0xff181A20);
+  static const Color greyDark = Color(0xff1F222A);
+  static const Color bluePurple = Color(0xff7152FF);
+  static const Color blueLight = Color(0xff5CACF6);
+  static const Color splashBg = Color(0xff190133);
+
+  static const Color color1 = Color(0xFF42951A);
+  static const Color opacity100Color1 = Color(0xFF32840A);
+  static const Color opacity70Color1 = Color(0xB242951A);
+  static const Color opacity50Color1 = Color(0x8042951A);
+  static const Color opacity30Color1 = Color(0x4D42951A);
+  static const Color opacity10Color1 = Color(0x1A42951A);
+}
