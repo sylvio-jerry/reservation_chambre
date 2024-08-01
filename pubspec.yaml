@@ -27,6 +27,13 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/hotel.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/images/hotel.png"
+
   flutter_lints: ^3.0.0
 
 flutter:
